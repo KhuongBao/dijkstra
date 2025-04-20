@@ -26,8 +26,19 @@ int main() {
 
     for (string s : path) 
         cout << s << " ";
+    cout << "\n\n";
+
+
+    // g.removeVertex("3");
+    // cout << "Removed vertex 3\n";
     
-    cout << "\n";
+    // path.clear();
+    // dist = g.shortestPath("1", "5", path);
+    // cout << "Shortest distance: " << dist << "\nPath: ";
+
+    // for (string s : path) 
+    //     cout << s << " ";
+    // cout << "\n";
 
     return 0;
 }
